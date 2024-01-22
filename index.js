@@ -44,5 +44,5 @@
 //     return z;
 // }
 
-// var websites = [];
+
 // websites.push("codewars")
