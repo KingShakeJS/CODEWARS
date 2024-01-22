@@ -60,3 +60,15 @@
 //     return sum;
 // }
 
+// function repeatStr (n, s) {
+//     let str;
+//     for (let i=0; i<n; i++ ){
+//         if(str===undefined){
+//             str=s
+//         }else{
+//             str=str+s
+//         }
+//
+//     }
+//     return str;
+// }
