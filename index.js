@@ -16,21 +16,31 @@
 //     }
 // }
 
-function basicOp(operation, value1, value2){
-if(operation==="-"){
-    return value1 - value2;
-}
-else if (operation==="+"){
-    return value1 + value2;
-}
-else if (operation==="/"){
-    return value1 / value2;
-}
-else if (operation==="*"){
-    return value1 * value2;
-}
+// function basicOp(operation, value1, value2){
+// if(operation==="-"){
+//     return value1 - value2;
+// }
+// else if (operation==="+"){
+//     return value1 + value2;
+// }
+// else if (operation==="/"){
+//     return value1 / value2;
+// }
+// else if (operation==="*"){
+//     return value1 * value2;
+// }
+//
+//
+// }
 
 
-}
-
+// function countBy(x, n) {
+//     let z = [];
+//     for (let i = 1; z.length<n; i++) {
+//         if (i % x === 0) {
+//             z.push(i)
+//         }
+//     }
+//     return z;
+// }
 
