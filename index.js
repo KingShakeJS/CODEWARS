@@ -191,3 +191,30 @@
 // }
 //
 // console.log(combat(10, 2))
+
+
+
+
+// function sumArray(array) {
+//     if (!array || array.length <= 1) {
+//         return 0
+//     } else {
+//         let maxNum = array.reduce(function (a, b) {
+//             return a > b ? a : b;
+//         })
+//         array.splice(array.indexOf(maxNum), 1);
+//
+//
+//         let minNum = array.reduce(function (a, b) {
+//             return a < b ? a : b;
+//         })
+//         array.splice(array.indexOf(minNum), 1);
+//         let sum = 0
+//         for (let i = 0; i < array.length; i++) {
+//             sum = sum + array[i]
+//         }
+//         return sum
+//     }
+//
+// }
+
