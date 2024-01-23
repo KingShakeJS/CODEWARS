@@ -134,3 +134,11 @@
 //         return "Beer"
 //     }
 // }
+
+// var cubeChecker = function (volume, side) {
+//     if ((volume === side ** 3) && (volume > 0) && (side > 0)) {
+//         return true
+//     } else {
+//         return false
+//     }
+// };
