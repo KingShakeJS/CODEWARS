@@ -142,3 +142,13 @@
 //         return false
 //     }
 // };
+
+
+// function generateRange(min, max, step){
+//     let diaposon=[]
+// for ( min; min <= max; min=min+step){
+//     diaposon.push(min)
+// }
+// return diaposon
+// }
+
