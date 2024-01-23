@@ -152,3 +152,13 @@
 // return diaposon
 // }
 
+// function defineSuit(card) {
+//     card = card.split("")
+//     let mast =card[card.length-1]
+//     if (mast==='♣'){return 'clubs'}
+//     else if(mast==='♦'){ return 'diamonds'}
+//     else if(mast==='♥'){ return 'hearts'}
+//     else if(mast==='♠'){ return 'spades'}
+//
+// }
+// console.log(defineSuit("3♥"))
