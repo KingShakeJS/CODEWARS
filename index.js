@@ -179,3 +179,15 @@
 //         return "Rating not recognised"
 //     }
 // }
+
+
+// function combat(health, damage) {
+//    let newHealth=health - damage;
+//    if(newHealth>=0){
+//        return newHealth
+//    }else {
+//        return 0
+//    }
+// }
+//
+// console.log(combat(10, 2))
