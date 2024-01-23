@@ -81,7 +81,6 @@
 // }
 
 
-
 // function getAverage(marks){
 //     let sum=0;
 //     for (let i =0; i<marks.length; i++){
@@ -89,3 +88,31 @@
 //     }
 //     return Math.floor(sum / marks.length)
 // }
+
+
+// function divisibleBy(numbers, divisor) {
+//     let a=[]
+//     for (let i = 0; i < numbers.length; i++) {
+//         if ((numbers[i] % divisor) ===0) {
+//              a.push(numbers[i])
+//         }else{
+//             continue;
+//         }
+//     }
+//          return a
+// }
+
+// function correct(string) {
+//     string = string.split("")
+//     for (let i = 0; i < string.length; i++){
+//         if(string[i]==="5"){
+//             string[i]='S'
+//         } else if(string[i]==="0"){
+//             string[i]='O'
+//         }else if(string[i]==="1"){
+//             string[i]='I'
+//         }
+//     }
+//     return string.join("")
+// }
+
