@@ -255,3 +255,19 @@
 // function swapValues(args) {
 //     return args.reverse()
 // }
+
+// function well(x){
+//      let good=0;
+//      for (let i=0; i<x.length; i++){
+//          if(x[i]==='good'){
+//              good +=1
+//          }
+//      }
+//      if(good===0){
+//          return 'Fail!'
+//      } else if (good<=2){
+//          return 'Publish!'
+//      }else{
+//          return 'I smell a series!'
+//      }
+// }
