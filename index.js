@@ -279,3 +279,13 @@
 //     }
 //     return sum / nums.length
 // }
+
+// function digitize(n) {
+//    n= n.toString()
+//     n= n.split('')
+//     for (let i =0; i<n.length; i++){
+//         n[i]=Number(n[i])
+//     }
+//     return n.reverse()
+// }
+
