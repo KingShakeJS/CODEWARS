@@ -218,6 +218,24 @@
 //
 // }
 
-function combineNames(name, surname) {
-    return name + " " +surname
-}
+// function combineNames(name, surname) {
+//     return name + " " +surname
+// }
+//
+// let name = 'Abe'
+//
+// const greetAbe = () => 'Hello, ' + name + '!'
+// console.log(greetAbe())
+// name = 'Ben'
+//
+// const greetBen = () => 'Hello, ' + name + '!'
+// console.log(greetAbe())
+
+
+// function removeEveryOther(arr){
+//     for (let i =1; i<arr.length; i++){
+//         arr.splice(i,1)
+//     }
+//     return arr
+// }
+
