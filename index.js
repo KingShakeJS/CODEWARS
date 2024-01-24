@@ -239,3 +239,16 @@
 //     return arr
 // }
 
+// function warnTheSheep(queue) {
+//     let wolf = queue.indexOf('wolf')
+//
+//     if(wolf===queue.length-1){
+//                 return  "Pls go away and stop eating my sheep";
+//     }else {
+//
+//             let sheep=queue.length-1-wolf
+//             return `Oi! Sheep number ${sheep}! You are about to be eaten by a wolf!`
+//
+//     }
+// }
+
